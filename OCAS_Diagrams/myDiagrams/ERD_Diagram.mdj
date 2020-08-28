@@ -114,7 +114,7 @@
 									"font": "Arial;13;0",
 									"left": 234,
 									"top": 148.5,
-									"width": 85.841796875,
+									"width": 85,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyD6jxm9UVNUk="
@@ -512,7 +512,7 @@
 									"font": "Arial;13;0",
 									"left": 121.5,
 									"top": 268.5,
-									"width": 83.6708984375,
+									"width": 83,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyD6mqmtV1qcc="
@@ -1101,7 +1101,7 @@
 									"font": "Arial;13;0",
 									"left": 120.5,
 									"top": 420.5,
-									"width": 77.919921875,
+									"width": 77,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyD6tdo9YFtNE="
@@ -1300,7 +1300,7 @@
 									"font": "Arial;13;0",
 									"left": 109,
 									"top": 500.5,
-									"width": 101.736328125,
+									"width": 101,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyD6u+PNY1vbE="
@@ -1499,7 +1499,7 @@
 									"font": "Arial;13;0",
 									"left": 120.5,
 									"top": 572.5,
-									"width": 78.4912109375,
+									"width": 78,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyD6wHGNZksYk="
@@ -1698,7 +1698,7 @@
 									"font": "Arial;13;0",
 									"left": 353.5,
 									"top": 372.5,
-									"width": 82.9599609375,
+									"width": 82,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyD60QZdaZKL8="
@@ -1897,7 +1897,7 @@
 									"font": "Arial;13;0",
 									"left": 347.5,
 									"top": 484.5,
-									"width": 93.814453125,
+									"width": 93,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyD62CrtbIGIU="
@@ -2039,7 +2039,7 @@
 									"font": "Arial;13;0",
 									"left": 91,
 									"top": 109,
-									"width": 45.078125,
+									"width": 43.60546875,
 									"height": 13,
 									"text": "Untitled"
 								},
@@ -8703,7 +8703,7 @@
 									"font": "Arial;13;1",
 									"left": 488,
 									"top": 381,
-									"width": 135.44091796875,
+									"width": 136.1708984375,
 									"height": 13,
 									"text": "Admin"
 								},
@@ -8729,7 +8729,7 @@
 											"font": "Arial;13;0",
 											"left": 493,
 											"top": 404,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8744,7 +8744,7 @@
 											"font": "Arial;13;0",
 											"left": 493,
 											"top": 419,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8759,7 +8759,7 @@
 											"font": "Arial;13;0",
 											"left": 493,
 											"top": 434,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8774,21 +8774,21 @@
 											"font": "Arial;13;0",
 											"left": 493,
 											"top": 449,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 488,
 									"top": 399,
-									"width": 135.44091796875,
+									"width": 136.1708984375,
 									"height": 68
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 488,
 							"top": 376,
-							"width": 135.44091796875,
+							"width": 136.1708984375,
 							"height": 91,
 							"nameLabel": {
 								"$ref": "AAAAAAFyD+IMZ3LWgFw="
@@ -8816,7 +8816,7 @@
 									"font": "Arial;13;1",
 									"left": 472,
 									"top": 125,
-									"width": 135.44091796875,
+									"width": 136.1708984375,
 									"height": 13,
 									"text": "Bidder"
 								},
@@ -8842,7 +8842,7 @@
 											"font": "Arial;13;0",
 											"left": 477,
 											"top": 148,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8857,7 +8857,7 @@
 											"font": "Arial;13;0",
 											"left": 477,
 											"top": 163,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8872,7 +8872,7 @@
 											"font": "Arial;13;0",
 											"left": 477,
 											"top": 178,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8887,7 +8887,7 @@
 											"font": "Arial;13;0",
 											"left": 477,
 											"top": 193,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8902,7 +8902,7 @@
 											"font": "Arial;13;0",
 											"left": 477,
 											"top": 208,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8918,7 +8918,7 @@
 											"font": "Arial;13;0",
 											"left": 397,
 											"top": 247,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										},
 										{
@@ -8933,21 +8933,21 @@
 											"font": "Arial;13;0",
 											"left": 477,
 											"top": 223,
-											"width": 125.44091796875,
+											"width": 126.1708984375,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 472,
 									"top": 143,
-									"width": 135.44091796875,
+									"width": 136.1708984375,
 									"height": 98
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 472,
 							"top": 120,
-							"width": 135.44091796875,
+							"width": 136.1708984375,
 							"height": 121,
 							"nameLabel": {
 								"$ref": "AAAAAAFyD+LWYXMBXLs="
@@ -9439,7 +9439,8 @@
 								"$ref": "AAAAAAFyD+IMZ3LTQ7g="
 							},
 							"name": "Email",
-							"length": 0
+							"length": 0,
+							"primaryKey": true
 						},
 						{
 							"_type": "ERDColumn",
@@ -9477,7 +9478,8 @@
 								"$ref": "AAAAAAFyD+LWYHL+9/w="
 							},
 							"name": "bidder_Id",
-							"length": 0
+							"length": 0,
+							"primaryKey": true
 						},
 						{
 							"_type": "ERDColumn",
